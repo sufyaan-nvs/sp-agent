@@ -102,7 +102,7 @@ components.html(
     """,
     height=920,
 )
+Powered by Microsoft Copilot Studio | Specialty Pharmacy Analytics
 
-ot Studio • Specialty Pharmacy Analytics
 </div>
 """, unsafe_allow_html=True)
